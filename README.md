@@ -10,6 +10,4 @@ It's a test
 Commit from AWS cloud EC2
 
 # feature branch [1-branch] added
-
-
 forked repository from rajkumarkishore account
